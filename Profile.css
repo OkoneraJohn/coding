@@ -1,0 +1,63 @@
+h2 {
+    color: saddlebrown;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: xx-large;
+    font-style: oblique;
+    
+}
+label{
+    font-style: initial;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: maroon;
+}
+body{ background-color: black;
+       box-shadow: 5px blue;
+    border-radius: 300px red;                         }
+ol{ color: chocolate;
+text-decoration: wavy;
+}
+h3{
+    color: coral;
+}
+p{
+    color: cyan;
+    text-shadow: darkorange;
+    transform-origin: center;
+    font-weight: 500;
+
+}
+title{
+    color: darkred;
+}
+button:hover { color:red;
+    
+}
+.hobby{
+    font-size: 2em;
+    font-weight: 50
+    ;
+}
+.pod{
+    padding: maroon;
+}
+.wow{
+    border: 5px solid maroon;
+}
+
+.para1{
+    padding: blue;
+    background-color: pink;
+    border-top: dotted green 10px;
+    border-left: groove blueviolet 10px;
+    border-right: solid brown 10px;
+    border-bottom: double red 10px;
+}
+#pat{
+    padding: center 100px;
+    background-color: red;
+}
+
+.para2{
+    border: red double 10px;
+}
+

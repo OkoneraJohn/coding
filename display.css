@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    background-color: dodgerblue;
+    width: 1200px;
+    height: 1200px;
+    justify-content: space-between;
+    flex-wrap:nowrap;
+    align-items: baseline;
+    align-content: space-between;
+    flex-flow: row wrap;
+}
+
+.box1{
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    
+}
+.box2{
+    background-color: chocolate;
+    height: 250px;
+    width: 250px;
+}
+.box3{
+    background-color: greenyellow;
+    height: 250px;
+    width: 250px;
+}
+.box4{
+    background-color: grey;
+    height: 250px;
+    width: 250px;
+}
